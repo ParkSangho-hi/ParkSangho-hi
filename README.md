@@ -1,6 +1,7 @@
 ## Hi there  아무거나👋
 
-Feature/a 기능 개발 완료
+Feature/b 기능 개발 완료
+
 <!--
 **ParkSangho-hi/ParkSangho-hi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
